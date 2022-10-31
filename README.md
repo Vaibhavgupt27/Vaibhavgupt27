@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **What you want**
 
-- 📫 How to reach me **vaibhav.2023mca1102@kiet.edu**
+- 📫 How to reach me **vaibhav.gupta@investwellonline.com**
 
 - 🥱🥱 Fun fact **Make everyone laugh from my shitty thing🤣🤣**
 
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 <p align="center"> 
  V.I.S.I.T.O.R.S<br>
-  <img src="https://profile-counter.glitch.me/Vaibhav-2717/count.svg" />
+  <img src="https://profile-counter.glitch.me/Vaibhavgupt27/count.svg" />
 </p>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Vaibhav-2717&theme=react-dark&area=true&hide_border=true" width="100%">
