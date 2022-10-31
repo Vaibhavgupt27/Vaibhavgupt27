@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/349qKnoIBHK1i/giphy.gif">
 - 🔭 I’m currently working on **for finding best of my self**
 
-- 🌱 I’m currently learning **Java & SQL**
+- 🌱 I’m currentlyworking on tech like **JavaScript,Node JS, Express Js, Redis & MySql**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vaibhav-2717](https://github.com/vaibhav-2717)
 
